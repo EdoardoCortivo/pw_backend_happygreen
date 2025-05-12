@@ -3,7 +3,7 @@ from django.contrib.auth.models import AbstractUser
 
 # Custom User (senza email)
 class User(AbstractUser):
-    email = None  # Disabilitiamo l'email
+    email = None  # Disabilito l'email
     profile_pic = models.ImageField(upload_to='profiles/', null=True, blank=True)
     points = models.IntegerField(default=0)
     level = models.IntegerField(default=1)
