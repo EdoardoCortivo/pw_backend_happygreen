@@ -1,6 +1,9 @@
 # HappyGreen Backend API
 
 <div align="center">
+  <img src="https://via.placeholder.com/150" alt="HappyGreen Logo" width="150" height="150">
+  <h3>Sostenibilità a portata di click</h3>
+</div>
 
 ## 📋 Indice
 - [Descrizione del Progetto](#descrizione-del-progetto)
