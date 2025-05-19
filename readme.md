@@ -6,18 +6,18 @@
 </div>
 
 ## 📋 Indice
-- [Descrizione del Progetto](#descrizione-del-progetto)
-- [Funzionalità](#funzionalità)
-- [Requisiti di Sistema](#requisiti-di-sistema)
-- [Installazione](#installazione)
+- [Descrizione del progetto](#📝-descrizione-del-progetto)
+- [Funzionalità](#-funzionalità)
+- [Requisiti di sistema](#-requisiti-di-sistema)
+- [Installazione](#-installazione)
   - [Windows](#windows)
   - [MacOS](#macos)
   - [Linux](#linux)
-- [Struttura del Progetto](#struttura-del-progetto)
-- [REST API Endpoints](#rest-api-endpoints)
-- [Tecnologie Utilizzate](#tecnologie-utilizzate)
-- [Team di Sviluppo](#team-di-sviluppo)
-- [Licenza](#licenza)
+- [Struttura del progetto](#-struttura-del-progetto)
+- [REST API Endpoints](#-rest-api-endpoints)
+- [Tecnologie utilizzate](#-tecnologie-utilizzate)
+- [Team di sviluppo](#-team-di-sviluppo)
+- [Licenza](#-licenza)
 
 ## 📝 Descrizione del Progetto
 
