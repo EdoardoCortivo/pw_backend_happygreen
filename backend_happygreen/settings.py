@@ -83,10 +83,14 @@ DATABASES = {
         'ENGINE': 'django.db.backends.mysql',
         'NAME': 'pwhappygreen_db',
         'USER': 'root',
-        'PASSWORD': '',
+        'PASSWORD': ' ',
         'HOST': '127.0.0.1',
         'PORT': '3306',
     }
+    #'default': {
+    #        'ENGINE': 'django.db.backends.sqlite3',
+    #        'NAME': BASE_DIR / 'db.sqlite3',
+    #    }
 }
 
 
@@ -140,3 +144,5 @@ REST_FRAMEWORK = {
         'rest_framework_simplejwt.authentication.JWTAuthentication',
     ),
 }
+
+ALLOWED_HOSTS = ['localhost', '127.0.0.1', '.ngrok-free.app']
