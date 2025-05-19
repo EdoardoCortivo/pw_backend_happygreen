@@ -1,7 +1,7 @@
 # HappyGreen Backend API
 
 <div align="center">
-  <img src="https://via.placeholder.com/150" alt="HappyGreen Logo" width="150" height="150">
+  <img src="https://www.flaticon.com/free-icon/recycle-bin_2514330?term=recycle+bin&page=1&position=2&origin=tag&related_id=2514330" alt="HappyGreen Logo" width="150" height="150">
   <h3>Sostenibilità a portata di click</h3>
 </div>
 
@@ -237,9 +237,9 @@ L'API offre i seguenti endpoint:
 ## 👨‍💻 Team di Sviluppo
 
 Progetto realizzato da:
-- Nome Cognome
-- Nome Cognome
-- Nome Cognome
+- Edoardo Cortivo
+- Cao Gaosheng
+- Veltroni Dario
 
 ## 📄 Licenza
 
