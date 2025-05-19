@@ -1,7 +1,7 @@
 # HappyGreen Backend API
 
 <div align="center">
-  <img src=media/img/logo.png alt="HappyGreen Logo">
+  <img src=media/img/logo.png alt="HappyGreen Logo" width="150">
   <h3>Sostenibilità a portata di click</h3>
 </div>
 
