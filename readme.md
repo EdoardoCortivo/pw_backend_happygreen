@@ -243,4 +243,4 @@ Progetto realizzato da:
 
 ## 📄 Licenza
 
-Questo progetto è distribuito con licenza MIT. Vedere il file `LICENSE` per maggiori dettagli.
+Questo progetto è distribuito con licenza AGPL-3.0. Vedere il file `LICENSE` per maggiori dettagli.
