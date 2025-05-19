@@ -6,7 +6,7 @@
 </div>
 
 ## 📋 Indice
-- [Descrizione del progetto](#📝-descrizione-del-progetto)
+- [Descrizione del progetto](#-descrizione-del-progetto)
 - [Funzionalità](#-funzionalità)
 - [Requisiti di sistema](#-requisiti-di-sistema)
 - [Installazione](#-installazione)
