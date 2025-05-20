@@ -243,4 +243,4 @@ Progetto realizzato da:
 
 ## 📄 Licenza
 
-Questo progetto è distribuito con licenza AGPL-3.0. Vedere il file `LICENSE` per maggiori dettagli.
+Questo progetto NON HA UNA LICENZA, tutto il codice è coperto dai diritti di autore. Questo progetto NON è open-source 
