@@ -243,4 +243,6 @@ Progetto realizzato da:
 
 ## 📄 Licenza
 
-Questo progetto NON HA UNA LICENZA, tutto il codice è coperto dai diritti di autore. Questo progetto NON è open-source 
+Questo progetto **non ha una licenza**.
+Tutto il codice è coperto dai diritti di autore.
+Questo progetto **non** è open-source 
